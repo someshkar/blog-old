@@ -1,3 +1,18 @@
-theme: jekyll-theme-cayman
-title: Somesh's Blog
-description: Somesh Kar's Personal Blog
+# Setup
+title:        Somesh's Blog
+tagline:      Somesh Kar's Personal Blog
+baseurl:      "/blog"
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Somesh Kar
+  url:        mailto:i@somesh.co 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
