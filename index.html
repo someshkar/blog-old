@@ -4,20 +4,10 @@ title: {{ site.name }}
 ---
 
 <div id="home">
-  <!-- <h1>Blog Posts</h1>
+  <!-- <h1>Blog Posts</h1> -->
   <ul class="posts">
     {% for post in site.posts %}
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>  <span style="text-align: right;">{{ post.date | date_to_string }}</span></li>
     {% endfor %}
-  </ul> -->
-  	<ul class="posts">
-    	<li>
-    		<a href="{{ site.baseurl }}{{ post.url }}" class="list-group-item list-group-item-action flex-column align-items-start post">
-        		<div class="post">
-            		<div class="title">{{ post.title }}</div><small class="date">{{ post.date | date_to_string }}</small>
-            	</div>
-    		</a>
-    	</li>
-    {% endfor %}
-	</ul>
+  </ul>
 </div>
