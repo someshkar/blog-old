@@ -3,7 +3,7 @@ layout: post
 title: Don't be different
 ---
 
-Being the same is okay, but make sure you know who to copy. Don't blatantly copy everyone else who knows nothing better than you.
+Being the same is okay, but make sure you know who to copy. Don't blatantly copy everyone else who know nothing better than you do yourself.
 
 There's nothing more important to doing something new than believing in what you're doing. If you can manage that, then what you've done is already put yourself into an extremely small minority. You've added value to the world.
 
