@@ -1,18 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
 # Setup
-title:        Somesh's Blog
-tagline:      Somesh Kar's Personal Blog
-baseurl:      "/blog"
-paginate:     1
-locale:       "en"
+title:               Somesh's Blog
+tagline:             
+description:         
+url:                 https://somesh.co
+baseurl:             '/blog'
+paginate:            5
 
 # About/contact
 author:
-  name:       Somesh Kar
-  url:        mailto:i@somesh.co 
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
+# Custom vars
+version:             1.0.0
