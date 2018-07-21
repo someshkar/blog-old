@@ -14,12 +14,13 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Somesh Kar
+  url:               https://twitter.com/SomeshKar
+  email:             i@somesh.co
 
 # Custom vars
-version:             1.0.0
+# version:             1.0.0
+# email:             i@somesh.co
 
 # Gems
 gems: [jekyll-paginate]
