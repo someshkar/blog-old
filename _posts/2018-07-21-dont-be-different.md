@@ -11,7 +11,7 @@ There's nothing more important to doing something new than believing in what you
 
 You have to have a monopolist idea, and yet not bring attention to yourself. To do this, you need to understand the fundamental difference between monopolies and non-monopolies.
 
->> Any company that says "we're different because we do X" out loud is ***not*** a monopoly.
+> Any company that says "we're different because we do X" out loud is ***not*** a monopoly.
 
 Take Google for instance. Their core competency is search. Yet if you ask them what their business is exactly, they'll say they're a 'technology company', making their market seem extremely broad and full of competition. This actually isn't the case. Google has dominated the search industry for years with no plans of stepping down anytime soon.
 
