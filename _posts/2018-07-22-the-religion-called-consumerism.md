@@ -7,7 +7,7 @@ The world is a harsh place. There's no room to care about anyone who doesn't thi
 
 ## Be a creator
 
-> A consumer is someone who is subject to the ideas and business models of creators.
+> *A consumer is someone who is subject to the ideas and business models of creators.*
 
 If you want to become someone the world remembers, the only way to do it is to become a creator. ***Anyone who adds value to society is a creator.***
 
