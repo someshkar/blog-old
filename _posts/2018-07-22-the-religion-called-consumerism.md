@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The religion called Consumerism
+title: The Religion called Consumerism
 ---
 
 The world is a harsh place. There's no room to care about anyone who doesn't think in terms of bringing value to the world and instead thinks about bringing value to their own self. No one in the world will remember you if you don't bring something new to the table.
